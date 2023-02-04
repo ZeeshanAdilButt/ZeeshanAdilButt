@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeeshanAdilButt
 - 👀 I’m interested in all things Engineering and DevOps with Algorithms, C#, .NET, Docker, Kubernetes, React, APIs, AWS, Azure, Microservices, Distributed Systems and System Design
-- 🌱 I’m currently learning more React, Blazor, Microservices, Algorithms, more Cloud, more Distributed systems and Networks
+- 🌱 I’m currently learning more Microservices, Algorithms, more Cloud, more Distributed systems and Networks
 - 💞️ I’m looking to collaborate on all things backend with C#, .NET, Java, Sring, Python
 - 📫 How to reach me zeeabutt@outlook.com linkedin.com/in/ZeeshanAdilButt
 
