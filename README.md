@@ -26,7 +26,8 @@ Our fellowship roadmaps and community projects are at [github.com/devweekends](h
 |---|---|
 | United Nations | Senior Engineer. Microservices, CI/CD and infra automation |
 | ROUTD | Lead engineer on a logistics SaaS |
-| Hemma and Systems Limited | Built a product from zero at an early stage startup, and enterprise software for Fortune 500 clients |
+| Hemma | Built a product from zero at an early stage startup |
+| Systems Limited | Enterprise software for Fortune 500 clients |
 
 ## Stack
 
