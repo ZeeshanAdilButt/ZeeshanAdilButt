@@ -1,15 +1,51 @@
-- 👋 Hi, I'm Zeeshan Adil
-- 🎯 Senior Software Engineer with 8+ years building enterprise systems for UN, Fortune 500, and startups
-- 💼 Currently: Engineering @ Ampwise.ai | Ex-Lead Engineer @ ROUTD | Ex-Senior Engineer @ United Nations
-- 🛠️ Tech: C#/.NET, Python, Node.js, Distributed Systems / Microservices, React, AWS, Azure, Kubernetes, Microservices, LangChain/LangGraph, AI Agents, AI/ML Pipelines
-- 🏆 Expert-Vetted (Top 1%) on Upwork | 100% Job Success | Google Cloud Certified | Microsoft Certified
-- 👥 Led teams of 10+ engineers | Improved productivity 30-40% | Built systems handling 2M+ requests/month
-- 🤖 Specialized in: Distributed Systems, Cloud Architecture, AI Engineering, DevOps, Team Leadership
-- 🌱 Learning: Advanced Kubernetes, Rust, AI Agents, Distributed Systems Algorithms
-- 💞️ Open to collaborate on: Backend (C#, .NET, Python, Go), Cloud/DevOps, AI/ML, Microservices
-- 📫 Reach me: zeeshanadil56@gmail.com | [LinkedIn](https://linkedin.com/in/zeeshanadilbutt) | [LeetCode](https://leetcode.com/u/zeeabutt)
+# Zeeshan Adil
 
-<!---
-ZeeshanAdilButt/ZeeshanAdilButt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior engineer based in Lahore, Pakistan. I've spent 9+ years on backend systems, cloud infrastructure and distributed systems, and more recently LLM agent systems in production. Backend is my strongest area, and what I enjoy most is going deeper into how things work underneath.
+
+I write about systems internals at [internalswithzee.com](https://internalswithzee.com).
+
+## What I'm working on
+
+- **Olostep.** I look after the browser automation platform. It runs 4M+ jobs a day on up to 600 nodes, on Kubernetes across GCP, AWS and bare metal, with Azure being added. My work there covers cloud migrations, autoscaling and cost. We cut compute cost by about 30% and the database bill by about two thirds.
+- **Ampwise.** I build LLM agent systems that run in production.
+- **Dev Weekends.** A free software engineering community I founded and run.
+
+## Dev Weekends
+
+[Dev Weekends](https://devweekends.com) is one of the biggest free engineering communities in Pakistan. It's run by volunteers with no outside funding. Our 12+ GSoC selections are the most any community in Pakistan has had.
+
+| Members | Countries | Engineers trained | GSoC | LFX | ESoC | Job placements |
+|---|---|---|---|---|---|---|
+| 30k+ | 7 | 1,600+ | 12+ | 2 | 1 | 200+ |
+
+Our fellowship roadmaps and community projects are at [github.com/devweekends](https://github.com/devweekends).
+
+## Before this
+
+| Where | What I did |
+|---|---|
+| United Nations | Senior Engineer. Microservices, CI/CD and infra automation |
+| ROUTD | Lead engineer on a logistics SaaS |
+| Hemma | Built the product from zero at an early stage startup |
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| Languages | C#, Python, TypeScript, Go, Rust |
+| Backend | .NET Core, Node.js, NestJS, PostgreSQL, RabbitMQ |
+| Cloud and infra | Kubernetes, Docker, Terraform, AWS, GCP, Azure |
+| AI | LangChain, LangGraph, LLM agents |
+| Frontend | React, Next.js |
+
+## Going deeper into
+
+Distributed systems, Linux internals, microVMs, Rust and Go.
+
+## Also
+
+Top 1% Expert-Vetted on Upwork. Google Cloud Professional Cloud Architect.
+
+## Contact
+
+[internalswithzee.com](https://internalswithzee.com) · [LinkedIn](https://linkedin.com/in/zeeshanadilbutt) · zeeshanadil56@gmail.com
