@@ -1,12 +1,12 @@
 # Zeeshan Adil
 
-Senior engineer based in Lahore, Pakistan. I've spent 9+ years on backend systems, cloud infrastructure and distributed systems, and more recently LLM agent systems in production. Backend is my strongest area, and what I enjoy most is going deeper into how things work underneath.
+Senior engineer based in Lahore, Pakistan. I've spent 9+ years on backend systems, cloud infrastructure and distributed systems, and more recently LLM agent systems in production. Backend is my strongest area. What I enjoy most is owning systems end to end and going deeper into how things work underneath.
 
 I write about systems internals at [internalswithzee.com](https://internalswithzee.com).
 
 ## What I'm working on
 
-- **Olostep.** I look after the browser automation platform. It runs 4M+ jobs a day on up to 600 nodes, on Kubernetes across GCP, AWS and bare metal, with Azure being added. My work there covers cloud migrations, autoscaling and cost. We cut compute cost by about 30% and the database bill by about two thirds.
+- **Olostep.** I own the platform behind a web search, scraping and crawling API. It runs 4M+ jobs a day on up to 600 nodes, on Kubernetes across GCP, AWS and bare metal. My work there covers platform architecture, cloud migrations, autoscaling and cost. I brought compute cost down about 30% and the database bill by about two thirds, and built a Rust service that handles 700k requests a minute on a single 4 vCPU node.
 - **Ampwise.** I build LLM agent systems that run in production.
 - **Dev Weekends.** A free software engineering community I founded and run.
 
