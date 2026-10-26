@@ -26,17 +26,20 @@ Our fellowship roadmaps and community projects are at [github.com/devweekends](h
 |---|---|
 | United Nations | Senior Engineer. Microservices, CI/CD and infra automation |
 | ROUTD | Lead engineer on a logistics SaaS |
-| Hemma | Built the product from zero at an early stage startup |
+| Hemma and Systems Limited | Built a product from zero at an early stage startup, and enterprise software for Fortune 500 clients |
 
 ## Stack
 
 | Area | Tools |
 |---|---|
-| Languages | C#, Python, TypeScript, Go, Rust |
-| Backend | .NET Core, Node.js, NestJS, PostgreSQL, RabbitMQ |
-| Cloud and infra | Kubernetes, Docker, Terraform, AWS, GCP, Azure |
+| Languages | C#, Python, TypeScript, JavaScript, Go, Rust, SQL |
+| Backend | .NET Core, ASP.NET, Node.js, NestJS, FastAPI, REST APIs, microservices |
+| Data and messaging | PostgreSQL, RabbitMQ, Prisma |
+| Distributed systems | Event-driven systems, job queues, outbox pattern, exactly-once consumers, circuit breakers, retries with backoff |
+| Cloud | AWS, GCP, Azure, bare metal |
+| Infra | Kubernetes, Docker, Terraform, Linux, CI/CD |
 | AI | LangChain, LangGraph, LLM agents |
-| Frontend | React, Next.js |
+| Frontend and mobile | React, Next.js, React Native |
 
 ## Going deeper into
 
