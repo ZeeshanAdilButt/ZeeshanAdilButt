@@ -12,7 +12,7 @@ I write about systems internals at [internalswithzee.com](https://internalswithz
 
 ## Dev Weekends
 
-[Dev Weekends](https://devweekends.com) is one of the biggest free engineering communities in Pakistan. It's run by volunteers with no outside funding. This year 9 of our fellows were selected for Google Summer of Code, up from 2 in 2025, and our members have earned over $2.5M through remote jobs, freelancing and open source stipends.
+[Dev Weekends](https://devweekends.com) started in Pakistan and is now international, with fellows from 30+ countries. It's free and run by volunteers with no outside funding. We have the most open source program selections of any community in Pakistan. This year 9 of our fellows were selected for Google Summer of Code, up from 2 in 2025, and our members have earned over $2.5M through remote jobs, freelancing and open source stipends.
 
 | Members | Countries | Universities | Engineers trained | GSoC 2025 and 2026 | Remote placements | Local placements |
 |---|---|---|---|---|---|---|
