@@ -12,11 +12,11 @@ I write about systems internals at [internalswithzee.com](https://internalswithz
 
 ## Dev Weekends
 
-[Dev Weekends](https://devweekends.com) is one of the biggest free engineering communities in Pakistan. It's run by volunteers with no outside funding. Our 12+ GSoC selections are the most any community in Pakistan has had.
+[Dev Weekends](https://devweekends.com) is one of the biggest free engineering communities in Pakistan. It's run by volunteers with no outside funding. This year 9 of our fellows were selected for Google Summer of Code, up from 2 in 2025, and our members have earned over $2.5M through remote jobs, freelancing and open source stipends.
 
-| Members | Countries | Engineers trained | GSoC | LFX | ESoC | Job placements |
+| Members | Countries | Universities | Engineers trained | GSoC 2025 and 2026 | Remote placements | Local placements |
 |---|---|---|---|---|---|---|
-| 30k+ | 7 | 1,600+ | 12+ | 2 | 1 | 200+ |
+| 30k+ | 30+ | 222 | 1,000+ | 11 | 100+ | 300+ |
 
 Our fellowship roadmaps and community projects are at [github.com/devweekends](https://github.com/devweekends).
 
